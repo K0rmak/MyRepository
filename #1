@@ -1,3 +1,23 @@
+<Html>
+<title>fsf</title>
+<Head>fdssd</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script>
 $(function(){
 	         $('#qqq').hover(function(){
 		      $(this).width(1.25*$(this).width());
@@ -5,5 +25,6 @@ $(function(){
 	        },function(){
 		       $(this).width(0.95*$(this).width());
 		       $(this).width(0.95*$(this).width());
-	        });
-	      
+</script>
+</body>
+</html>
